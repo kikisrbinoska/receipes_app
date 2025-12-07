@@ -7,8 +7,7 @@ import 'meal_detail_screen.dart';
 class MealsByCategoryScreen extends StatefulWidget {
   final String category;
 
-  const MealsByCategoryScreen({Key? key, required this.category})
-      : super(key: key);
+  const MealsByCategoryScreen({super.key, required this.category});
 
   @override
   State<MealsByCategoryScreen> createState() => _MealsByCategoryScreenState();
@@ -58,7 +57,6 @@ class _MealsByCategoryScreenState extends State<MealsByCategoryScreen> {
 
     try {
       final searchResults = await _apiService.searchMeals(query);
-      // Филтрирај само јадењата од тековната категорија
       final filteredResults = searchResults
           .where((meal) =>
               _meals.any((m) => m.idMeal == meal.idMeal))
