@@ -1,16 +1,11 @@
-# recipe_app
+# Receipes Mobile App
 
-A new Flutter project.
+## Kristina Srbinoska 211099
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://github.com/user-attachments/assets/05a02a82-7c44-4cb4-804e-504589a68e5d
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![viber_image_2025-11-24_01-15-18-130](https://github.com/user-attachments/assets/8a2a6b2a-ff28-4cf2-9449-e86a7082d3b4)
+![viber_image_2025-11-24_01-15-18-804](https://github.com/user-attachments/assets/050f5aa2-5151-4618-8d50-8f978da7e32d)
+![viber_image_2025-11-24_01-15-18-769](https://github.com/user-attachments/assets/55cbe646-9841-4d1b-9d71-b5052c749fa7)
